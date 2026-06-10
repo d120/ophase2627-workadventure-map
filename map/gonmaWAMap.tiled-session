@@ -1,17 +1,33 @@
 {
-    "activeFile": "",
+    "activeFile": "map.tmx",
     "expandedProjectPaths": [
     ],
     "fileStates": {
+        "map.tmx": {
+            "scale": 0.3822,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2517.006802721088,
+                "y": 1097.592883307169
+            }
+        },
+        "map.tmx#terrain": {
+            "scaleInDock": 1.5
+        },
+        "map.tmx#victorian-mansion": {
+            "scaleInDock": 1.5
+        }
     },
     "last.imagePath": "/home/albird/projects/gonmaWA/map/tiles",
     "map.height": 60,
     "map.lastUsedFormat": "tmx",
     "map.width": 140,
     "openFiles": [
+        "map.tmx"
     ],
     "project": "gonmaWAMap.tiled-project",
     "recentFiles": [
+        "map.tmx"
     ],
     "tileset.embedInMap": true
 }
