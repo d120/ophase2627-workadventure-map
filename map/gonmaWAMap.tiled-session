@@ -4,18 +4,27 @@
     ],
     "fileStates": {
         "map.tmx": {
-            "scale": 0.3822,
-            "selectedLayer": 1,
+            "scale": 0.3288,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 2517.006802721088,
-                "y": 1097.592883307169
+                "x": 1704.6836982968368,
+                "y": 1368.6131386861314
             }
+        },
+        "map.tmx#A3_Buildings_Rasak": {
+            "scaleInDock": 1
+        },
+        "map.tmx#housetileset": {
+            "scaleInDock": 1
         },
         "map.tmx#terrain": {
             "scaleInDock": 1.5
         },
         "map.tmx#victorian-mansion": {
             "scaleInDock": 1.5
+        },
+        "map.tmx#victorian-windows-doors": {
+            "scaleInDock": 1
         }
     },
     "last.imagePath": "/home/albird/projects/gonmaWA/map/tiles",
